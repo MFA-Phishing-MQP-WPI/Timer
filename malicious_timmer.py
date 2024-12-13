@@ -13,10 +13,10 @@ if len(sys.argv) != 2:
     exit()
 
 # Path to your ChromeDriver
-CHROMEDRIVER_PATH = 'D:\\Users\\Jacob Glik\\wpi\\A24\\MQP\\Timmer\\chromedriver-win64\\chromedriver.exe'
+CHROMEDRIVER_PATH = 'chromedriver-win64\\chromedriver.exe'
 
 # Path to your MITMProxy's CA certificate
-CA_CERTIFICATE_PATH = 'D:\\Users\\Jacob Glik\\wpi\\A24\\MQP\\Timmer\\mitmproxy-ca-cert.crt'
+CA_CERTIFICATE_PATH = 'mitmproxy-ca-cert.crt'
 
 # URL of the site to be tested
 SITE_URL = 'https://login.microsoftonline.com'
