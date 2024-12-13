@@ -1,5 +1,7 @@
 # Timmer
 
+https://www.youtube.com/watch?v=WnWQgUerR0c&ab_channel=OpenSourceStudent
+
 1. Download the Correct ChromeDriver Version
 
     - Go to the ChromeDriver Downloads page.
