@@ -13,7 +13,7 @@ if len(sys.argv) != 2:
     exit()
 
 # Path to your ChromeDriver
-CHROMEDRIVER_PATH = 'D:\\Users\\Jacob Glik\\wpi\\A24\\MQP\\Timmer\\chromedriver-win64\\chromedriver.exe'
+CHROMEDRIVER_PATH = 'chromedriver-win64\\chromedriver.exe'
 
 # URL of the site to be tested
 SITE_URL = 'https://google.com'
