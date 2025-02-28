@@ -9,7 +9,7 @@ import sys
 
 if len(sys.argv) != 2:
     print("> ! Required arg missing.")
-    print("Usage: python3 timmer.py <NAME_OF_OUTPUT_FILE>")
+    print("Usage: python3 timer.py <NAME_OF_OUTPUT_FILE>")
     exit()
 
 # Path to your ChromeDriver
